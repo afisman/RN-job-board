@@ -1,0 +1,920 @@
+[
+    {
+        "job_id": "n_vkK2QnqcCuCTqaAAAAAA==",
+        "employer_name": "Software Technology Group",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDIBo-YOxVmxaWJuF6_Fv_MrQSFfrbx-f539nc&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "React Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-software-technology-group-3966617743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6276,
+        "apply_options": [
+            {
+                "publisher": "LinkedIn",
+                "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-software-technology-group-3966617743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Summary\n\nSoftware Technology Group is a software development consulting company dedicated to building software solutions that transform our clients businesses. Unlike most consulting companies, we have full-time salaried positions and offer our employees the chance to build and strengthen their skills with our custom Career Developing Plans, Certifications, Mentorships, and training. Our main goal is to help you have the career you want while also building the skill set you desire - sounds pretty awesome right?\n\nWe’re currently looking for React Developers to join our team. If you’re ready for the job of a lifetime, and ready to see how STG can develop your career, your skills and your life, apply today. We can’t wait to hear from you!\n\n_________________________________\n\nResponsibilities:\n• Design, develop, and implement responsive web applications using React and its related libraries and tools.\n• Collaborate with product owners, UX/UI designers, and back-end developers to gather requirements and translate them into functional user interfaces.\n• Write clean, efficient, and maintainable code that adheres to industry best practices and coding standards.\n• Develop reusable components and libraries for future use.\n• Optimize applications for maximum performance and scalability.\n• Conduct thorough testing and debugging to ensure the delivery of high-quality software.\n• Stay up-to-date with the latest trends and advancements in React and front-end development, and propose their adoption when appropriate.\n• Collaborate with the back-end development team to integrate front-end components with server-side logic.\n• Work closely with UX/UI designers to ensure the best user experience and visual aesthetics.\n• Participate in code reviews, providing constructive feedback and suggestions for improvement.\n• Contribute to continuous improvement initiatives related to development processes and methodologies.\n\nRequirements:\n• 4+ years of professional experience in front-end development.\n• Strong proficiency in React and its related libraries (React Router, Redux, etc.).\n• Solid understanding of JavaScript, HTML5, and CSS3.\n• Experience with responsive web design and mobile-first development.\n• Familiarity with front-end build tools and package managers (Webpack, Babel, npm, yarn).\n• Understanding of version control systems, such as Git.\n• Knowledge of RESTful APIs and asynchronous request handling.\n• Strong problem-solving and analytical skills.\n• Excellent attention to detail and commitment to delivering high-quality software.\n• Ability to work collaboratively in a team environment and effectively communicate with cross-functional teams.\n• Familiarity with Agile/Scrum methodologies is a plus.\n• Experience with TypeScript is a plus.\n• Knowledge of other front-end frameworks (Angular, Vue.js) is a plus.\n• Familiarity with back-end development using Node.js or other server-side technologies is a plus.\n\nAbout STG\n\nOur unique consulting company has been changing lives since 1996, providing full-time employment with benefits and paid time off. Plus, our Dev. Center ensures your skills stay sharp, even when you're between jobs. We prioritize work-life balance and continuous learning, and our industry-leading team develops top solutions for clients. We value our employees and offer generous benefits and regular bonuses. Join our awesome team at STG, where you'll feel valued and truly make a difference.\n\nThere are so many more reasons why STG is an incredible place to work, check out the scoop here: https://stgconsulting.com/careers/",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720032759,
+        "job_posted_at_datetime_utc": "2024-07-03T18:52:39.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": [
+            "health_insurance",
+            "paid_time_off"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=n_vkK2QnqcCuCTqaAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=n_vkK2QnqcCuCTqaAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-02T18:52:39.000Z",
+        "job_offer_expiration_timestamp": 1722624759,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "48",
+            "experience_mentioned": "true",
+            "experience_preferred": "true"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": "false",
+            "professional_certification": "false",
+            "high_school": "false",
+            "associates_degree": "false",
+            "bachelors_degree": "true",
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "true"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "4+ years of professional experience in front-end development",
+                "Strong proficiency in React and its related libraries (React Router, Redux, etc.)",
+                "Solid understanding of JavaScript, HTML5, and CSS3",
+                "Experience with responsive web design and mobile-first development",
+                "Familiarity with front-end build tools and package managers (Webpack, Babel, npm, yarn)",
+                "Understanding of version control systems, such as Git",
+                "Knowledge of RESTful APIs and asynchronous request handling",
+                "Strong problem-solving and analytical skills",
+                "Excellent attention to detail and commitment to delivering high-quality software",
+                "Ability to work collaboratively in a team environment and effectively communicate with cross-functional teams"
+            ],
+            "Responsibilities": [
+                "Design, develop, and implement responsive web applications using React and its related libraries and tools",
+                "Collaborate with product owners, UX/UI designers, and back-end developers to gather requirements and translate them into functional user interfaces",
+                "Write clean, efficient, and maintainable code that adheres to industry best practices and coding standards",
+                "Develop reusable components and libraries for future use",
+                "Optimize applications for maximum performance and scalability",
+                "Conduct thorough testing and debugging to ensure the delivery of high-quality software",
+                "Stay up-to-date with the latest trends and advancements in React and front-end development, and propose their adoption when appropriate",
+                "Collaborate with the back-end development team to integrate front-end components with server-side logic",
+                "Work closely with UX/UI designers to ensure the best user experience and visual aesthetics",
+                "Participate in code reviews, providing constructive feedback and suggestions for improvement",
+                "Contribute to continuous improvement initiatives related to development processes and methodologies"
+            ],
+            "Benefits": [
+                "We value our employees and offer generous benefits and regular bonuses"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "086hFOwWcTU58ECjAAAAAA==",
+        "employer_name": "Upwork",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Upwork",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Looking for a react developer",
+        "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-react-developer_~0154b9029a19aaefb1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.6845,
+        "apply_options": [
+            {
+                "publisher": "Upwork",
+                "apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-react-developer_~0154b9029a19aaefb1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            }
+        ],
+        "job_description": "We are seeking an experienced Web Developer to create a dynamic and engaging website for our Trading Academy. The ideal candidate will have a strong background in web development, a keen eye for design, and experience with educational platforms. Our academy aims to provide high-quality trading education to beginners and advanced traders through online courses, webinars, and interactive resources.\n\nResponsibilities:\n\nDevelop a fully functional, responsive website for our Trading Academy.\n\nIntegrate an online learning management system (LMS) for course delivery.\n\nDesign a user-friendly interface that is both visually appealing and easy to navigate.\n\nImplement features such as user registration, course enrollment, payment processing, and progress tracking.\n\nOptimize the website for search engines (SEO) to attract organic traffic.\n\nEnsure the website is secure and capable of handling sensitive user information.\n\nProvide ongoing support and maintenance for the website.\n\nRequirements:\n\nProven experience as a Web Developer, with a portfolio of previous work.\n\nProficiency in HTML, CSS, JavaScript, and other relevant web development languages.\n\nExperience with CMS platforms like WordPress, Joomla, or custom CMS.\n\nFamiliarity with LMS platforms such as Moodle, Teachable, or Thinkific.\n\nKnowledge of SEO best practices.\n\nStrong understanding of web security principles.\n\nExcellent problem-solving skills and attention to detail.\n\nAbility to work",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1720097702,
+        "job_posted_at_datetime_utc": "2024-07-04T12:55:02.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=086hFOwWcTU58ECjAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=086hFOwWcTU58ECjAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": [
+            "React",
+            "CSS",
+            "HTML",
+            "JavaScript",
+            "SEO Content",
+            "Web Development"
+        ],
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "The ideal candidate will have a strong background in web development, a keen eye for design, and experience with educational platforms",
+                "Proven experience as a Web Developer, with a portfolio of previous work",
+                "Proficiency in HTML, CSS, JavaScript, and other relevant web development languages",
+                "Experience with CMS platforms like WordPress, Joomla, or custom CMS",
+                "Familiarity with LMS platforms such as Moodle, Teachable, or Thinkific",
+                "Knowledge of SEO best practices",
+                "Strong understanding of web security principles",
+                "Excellent problem-solving skills and attention to detail",
+                "Ability to work"
+            ],
+            "Responsibilities": [
+                "Develop a fully functional, responsive website for our Trading Academy",
+                "Integrate an online learning management system (LMS) for course delivery",
+                "Design a user-friendly interface that is both visually appealing and easy to navigate",
+                "Implement features such as user registration, course enrollment, payment processing, and progress tracking",
+                "Optimize the website for search engines (SEO) to attract organic traffic",
+                "Ensure the website is secure and capable of handling sensitive user information",
+                "Provide ongoing support and maintenance for the website"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "Ra_LrpdC_Y6wDcYTAAAAAA==",
+        "employer_name": "Oq Point",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLuOBSk8cMSD0lEH4sNng-gnUHbMjqf5aJ2UA&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Frontend/React Developer _ Minneapolis, MN",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-react-developer-minneapolis-mn-at-oq-point-3966102355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6319,
+        "apply_options": [
+            {
+                "publisher": "LinkedIn",
+                "apply_link": "https://www.linkedin.com/jobs/view/frontend-react-developer-minneapolis-mn-at-oq-point-3966102355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Adzuna",
+                "apply_link": "https://www.adzuna.com/details/4765162881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            }
+        ],
+        "job_description": "Role: Frontend/React Developer\n\nLocation: Minneapolis, MN\n\nLocals only\n\nJd\n\nKey Skills: 10 + Years' experience\n• React/JS/CSS/HTML\n• 10+ Years of experience.\n• Self-starter with good communication skills.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720052685,
+        "job_posted_at_datetime_utc": "2024-07-04T00:24:45.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=Ra_LrpdC_Y6wDcYTAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=Ra_LrpdC_Y6wDcYTAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-03T00:24:44.000Z",
+        "job_offer_expiration_timestamp": 1722644684,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "120",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": "false",
+            "professional_certification": "false",
+            "high_school": "false",
+            "associates_degree": "false",
+            "bachelors_degree": "true",
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Key Skills: 10 + Years' experience",
+                "Self-starter with good communication skills"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "jEb290nQaLPp7LJOAAAAAA==",
+        "employer_name": "TEKsystems",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXsEN7UUtvSpIi0itdBndnljUWnfdCSoQtMsq&s=0",
+        "employer_website": "http://www.teksystems.com",
+        "employer_company_type": null,
+        "employer_linkedin": "https://www.teksystems.com/",
+        "job_publisher": "TEKsystems Careers",
+        "job_employment_type": "FULLTIME",
+        "job_title": "React Developer",
+        "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-004559123/React-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.9028,
+        "apply_options": [
+            {
+                "publisher": "TEKsystems Careers",
+                "apply_link": "https://careers.teksystems.com/us/en/job/JP-004559123/React-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "ZipRecruiter",
+                "apply_link": "https://www.ziprecruiter.com/c/TEKsystems/Job/React-Developer/-in-Bentonville,AR?jid=3e04258241a590c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "LifeworQ",
+                "apply_link": "https://lifeworq.com/job/87fc9293-96e8-452b-a347-e2f291e0e832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jooble",
+                "apply_link": "https://jooble.org/jdp/1146484814763911672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "BeBee",
+                "apply_link": "https://us.bebee.com/job/3ad6185956de36527a528451512aaed6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Adzuna",
+                "apply_link": "https://www.adzuna.com/details/4753695499?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Nexxt",
+                "apply_link": "https://www.nexxt.com/jobs/react-developer-bentonville-ar-2710955016-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jobs Trabajo.org",
+                "apply_link": "https://us.trabajo.org/job-2951-2081577a1cf57affe7314e43d543e095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "UI Developer - Strong React\n\nW2 Only - USC, GC, GC EAD, or H4 EAD - NO SPONSORSHIP\n\nLocation: Bentonville, AR OR MUST be able to relocate before first day of work.\n\nLooking for at least 5-6+ years of US experience\n• *Someone who can be about 70% frontend but can pivot to backend as needed.\n\nAbout TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719273600,
+        "job_posted_at_datetime_utc": "2024-06-25T00:00:00.000Z",
+        "job_city": "Bentonville",
+        "job_state": "AR",
+        "job_country": "US",
+        "job_latitude": 36.372356,
+        "job_longitude": -94.21021,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=jEb290nQaLPp7LJOAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=jEb290nQaLPp7LJOAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "60",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 50,
+        "job_max_salary": 70,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "W2 Only - USC, GC, GC EAD, or H4 EAD - NO SPONSORSHIP",
+                "Looking for at least 5-6+ years of US experience",
+                "*Someone who can be about 70% frontend but can pivot to backend as needed"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": [
+            "Developer"
+        ],
+        "job_naics_code": "561311",
+        "job_naics_name": "Employment Placement Agencies"
+    },
+    {
+        "job_id": "G7hEWMpGYOhlpkv-AAAAAA==",
+        "employer_name": "Upwork",
+        "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+        "employer_website": "http://www.elance.com",
+        "employer_company_type": null,
+        "employer_linkedin": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5jAvX9yCutNtC9iREvE7jcVHiX4w92YtZU3pYuNq-YljrnNU",
+        "job_publisher": "Upwork",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "React developer - Contract to hire",
+        "job_apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/React-developer_~01d845c9443c4448af/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.6842,
+        "apply_options": [
+            {
+                "publisher": "Upwork",
+                "apply_link": "https://www.upwork.com/en-gb/freelance-jobs/apply/React-developer_~01d845c9443c4448af/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            }
+        ],
+        "job_description": "I am looking for React developer to make app like submagic\n\n- Where user upload a short video\n\n- AI Would generate caption\n\n- It would apply a style to that caption from preset\n\n- User can customize that caption style accordingly.",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1720095389,
+        "job_posted_at_datetime_utc": "2024-07-04T12:16:29.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=G7hEWMpGYOhlpkv-AAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=G7hEWMpGYOhlpkv-AAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": [
+            "React",
+            "JavaScript"
+        ],
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 28,
+        "job_max_salary": 47,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": "541511",
+        "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+        "job_id": "-RsHzbMRZ_ipba-DAAAAAA==",
+        "employer_name": "Intone Networks",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI8DAG3UNMDtW1cNAwDET1fH7VwoP0_W_9C2Ct&s=0",
+        "employer_website": "http://www.intonenetworks.com",
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Indeed",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Software Developer – React/ React Developer( SME level)",
+        "job_apply_link": "https://www.indeed.com/viewjob?jk=e3eeb96b027e9e2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5713,
+        "apply_options": [
+            {
+                "publisher": "Indeed",
+                "apply_link": "https://www.indeed.com/viewjob?jk=e3eeb96b027e9e2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Glassdoor",
+                "apply_link": "https://www.glassdoor.com/job-listing/software-developer-react-react-developer-sme-level-intone-networks-JV_KO0,50_KE51,66.htm?jl=1009348831399&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Software Developer – React/ React Developer( SME level) Phone then Video 12 months",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1719951335,
+        "job_posted_at_datetime_utc": "2024-07-02T20:15:35.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=-RsHzbMRZ_ipba-DAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=-RsHzbMRZ_ipba-DAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-10-31T23:26:09.000Z",
+        "job_offer_expiration_timestamp": 1730417169,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "Xeq8SXECJZ264J3HAAAAAA==",
+        "employer_name": "Patterned Learning Career",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Salary.com",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Junior React Developer",
+        "job_apply_link": "https://www.salary.com/job/patterned-learning-career/junior-react-developer/j202407020848546315532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5257,
+        "apply_options": [
+            {
+                "publisher": "Salary.com",
+                "apply_link": "https://www.salary.com/job/patterned-learning-career/junior-react-developer/j202407020848546315532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "JoPilot",
+                "apply_link": "https://jobs.jopilot.net/job/7f2CfpABNDRfCFvuOlnn0724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "This is a remote position.\n\nJunior React Developer - Remote Job, 1 Year Experience\n\nAnnual Income: $61K - $74K\n\nA valid work permit is necessary in the US\n\nAbout us: Patterned Learning is a platform that aims to help developers code faster and more efficiently. It offers features such as collaborative coding, real-time multiplayer editing, and the ability to build, test, and deploy directly from the browser. The platform also provides tightly integrated code generation, editing, and output capabilities.\n\nResponsibilities:\n• Develop and implement high-quality, scalable, and maintainable React components for our web applications.\n• Collaborate with the development team to translate design mock-ups into functional features.\n• Participate in code reviews and provide constructive feedback to enhance the overall code quality.\n• Debug and resolve software defects and issues.\n• Stay updated with the latest industry trends and best practices in front-end development.\n\nRequirements:\n• Proficiency in HTML, CSS, and JavaScript.\n• Strong understanding of React and its ecosystem.\n• Experience working with RESTful APIs and integrating backend services.\n• Familiarity with version control systems (e.g., Git).\n• Good problem-solving and analytical skills.\n• Excellent communication and collaboration abilities.\n• Ability to learn quickly and adapt to new technologies and frameworks.\n\nWhy Patterned Learning LLC?\n\nPatterned Learning can provide intelligent suggestions, automate repetitive tasks, and assist developers in writing code more effectively. This can help reduce coding errors, improve productivity, and accelerate the development process.\n\nPattern recognition is particularly relevant in the context of coding. Neural networks, especially deep learning models, are commonly employed for pattern detection and classification tasks. These models simulate human decision-making and can identify patterns in data, making them well-suited for tasks like code analysis and generation.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719964800,
+        "job_posted_at_datetime_utc": "2024-07-03T00:00:00.000Z",
+        "job_city": "Fayetteville",
+        "job_state": "AR",
+        "job_country": "US",
+        "job_latitude": 36.062656,
+        "job_longitude": -94.16058,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=Xeq8SXECJZ264J3HAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=Xeq8SXECJZ264J3HAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-01T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1722470400,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "12",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "A valid work permit is necessary in the US",
+                "Proficiency in HTML, CSS, and JavaScript",
+                "Strong understanding of React and its ecosystem",
+                "Experience working with RESTful APIs and integrating backend services",
+                "Familiarity with version control systems (e.g., Git)",
+                "Good problem-solving and analytical skills",
+                "Excellent communication and collaboration abilities",
+                "Ability to learn quickly and adapt to new technologies and frameworks"
+            ],
+            "Responsibilities": [
+                "Develop and implement high-quality, scalable, and maintainable React components for our web applications",
+                "Collaborate with the development team to translate design mock-ups into functional features",
+                "Participate in code reviews and provide constructive feedback to enhance the overall code quality",
+                "Debug and resolve software defects and issues",
+                "Stay updated with the latest industry trends and best practices in front-end development",
+                "Patterned Learning can provide intelligent suggestions, automate repetitive tasks, and assist developers in writing code more effectively",
+                "This can help reduce coding errors, improve productivity, and accelerate the development process"
+            ],
+            "Benefits": [
+                "Annual Income: $61K - $74K"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "Uq9ovzx5eGMWN6U7AAAAAA==",
+        "employer_name": "ESB Technologies",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Recruiter Jobs",
+        "job_employment_type": "FULLTIME",
+        "job_title": "React Developer",
+        "job_apply_link": "https://jobs.recruiter.com/jobs/7221928981-react-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5621,
+        "apply_options": [
+            {
+                "publisher": "Recruiter Jobs",
+                "apply_link": "https://jobs.recruiter.com/jobs/7221928981-react-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Sercanto",
+                "apply_link": "https://us.sercanto.com/detail/a/react-developer_texas_2780744553?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Senior React DeveloperKey ResponsibilitiesArchitect and Develop : Design, develop, and maintain advanced web applications using React, Redux, TypeScript, and other modern web technologies.Code Quality : Write clean, maintainable, and efficient code. Perform code reviews and mentor junior developers to improve code quality.Collaboration : Work closely with product managers, designers, and other developers to deliver high-quality features and improvements.Testing : Implement comprehensive testing strategies, including unit, integration, and end-to-end tests to ensure application reliability and robustness.Performance Optimization : Identify and resolve performance bottlenecks to improve the responsiveness and overall user experience of our applications.Best Practices : Stay up-to-date with the latest industry trends and technologies, and advocate for best practices and coding standards.DevOps and CI/CD : Collaborate with DevOps to streamline deployment processes and maintain CI/CD pipelines.Documentation : Create and maintain technical documentation for code, APIs, and development processes.Required Skills and QualificationsExperience : 5+ years of professional experience in web development, with at least 3 years focused on React.Technical Skills :Proficiency in JavaScript and TypeScript.Strong experience with React and its ecosystem (Redux, React Router, Context API, etc.).Deep understanding of HTML, CSS, and modern front-end build pipelines and tools (Webpack, Babel, etc.).Experience with RESTful APIs and GraphQL.Familiarity with front-end performance optimization techniques.Experience with testing frameworks and tools (Jest, Enzyme, React Testing Library, Cypress, etc.).DevOps Knowledge : Experience with CI/CD tools and processes (GitHub Actions, Jenkins, Travis CI, etc.).Version Control : Proficiency with Git and Git workflows.Soft Skills :Excellent problem-solving skills and attention to detail.Strong communication and interpersonal skills.Ability to work effectively in a collaborative, fast-paced environment.Proven leadership skills and ability to mentor junior developers.Preferred Skills and QualificationsState Management : Experience with advanced state management libraries (MobX, Recoil, Zustand, etc.).SSR and SSG : Knowledge of server-side rendering and static site generation frameworks (Next.js, Gatsby).Design Systems : Experience with design systems and component libraries (Storybook, Material-UI, etc.).Cloud Services : Familiarity with cloud platforms (AWS, Azure, GCP) and services.Microservices Architecture : Understanding of microservices architecture and experience with related technologies (Docker, Kubernetes).EducationBachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719928800,
+        "job_posted_at_datetime_utc": "2024-07-02T14:00:00.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=Uq9ovzx5eGMWN6U7AAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=Uq9ovzx5eGMWN6U7AAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "60",
+            "experience_mentioned": "true",
+            "experience_preferred": "true"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "true",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Required Skills and QualificationsExperience : 5+ years of professional experience in web development, with at least 3 years focused on React",
+                "Technical Skills :Proficiency in JavaScript and TypeScript",
+                "Strong experience with React and its ecosystem (Redux, React Router, Context API, etc.).Deep understanding of HTML, CSS, and modern front-end build pipelines and tools (Webpack, Babel, etc.).Experience with RESTful APIs and GraphQL",
+                "Familiarity with front-end performance optimization techniques",
+                "Experience with testing frameworks and tools (Jest, Enzyme, React Testing Library, Cypress, etc.).DevOps Knowledge : Experience with CI/CD tools and processes (GitHub Actions, Jenkins, Travis CI, etc.).Version Control : Proficiency with Git and Git workflows",
+                "Soft Skills :Excellent problem-solving skills and attention to detail",
+                "Strong communication and interpersonal skills",
+                "Ability to work effectively in a collaborative, fast-paced environment",
+                "Proven leadership skills and ability to mentor junior developers",
+                "Design Systems : Experience with design systems and component libraries (Storybook, Material-UI, etc.).Cloud Services : Familiarity with cloud platforms (AWS, Azure, GCP) and services",
+                "Microservices Architecture : Understanding of microservices architecture and experience with related technologies (Docker, Kubernetes)",
+                "EducationBachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience"
+            ],
+            "Responsibilities": [
+                "Code Quality : Write clean, maintainable, and efficient code",
+                "Perform code reviews and mentor junior developers to improve code quality",
+                "Collaboration : Work closely with product managers, designers, and other developers to deliver high-quality features and improvements",
+                "Testing : Implement comprehensive testing strategies, including unit, integration, and end-to-end tests to ensure application reliability and robustness",
+                "Performance Optimization : Identify and resolve performance bottlenecks to improve the responsiveness and overall user experience of our applications",
+                "Best Practices : Stay up-to-date with the latest industry trends and technologies, and advocate for best practices and coding standards",
+                "DevOps and CI/CD : Collaborate with DevOps to streamline deployment processes and maintain CI/CD pipelines",
+                "Documentation : Create and maintain technical documentation for code, APIs, and development processes"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "RgkOvtEn-5UbeQvDAAAAAA==",
+        "employer_name": "Upwork",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Upwork",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "React.js Frontend Developer",
+        "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Frontend-Developer_~0102d7fca9ed5261ba/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.6845,
+        "apply_options": [
+            {
+                "publisher": "Upwork",
+                "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Frontend-Developer_~0102d7fca9ed5261ba/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            }
+        ],
+        "job_description": "We are seeking a skilled Frontend Developer with expertise in React.js to join our team. As a Frontend Developer, you will be responsible for developing user interfaces and implementing designs using React.js. You will collaborate with our design and development teams to create seamless and user-friendly web applications. The ideal candidate has a strong understanding of frontend development principles and experience working with React.js. If you are a detail-oriented developer with a passion for creating exceptional user experiences, we would love to hear from you.\n\nSkills required:\n\n- Proficiency in React.js\n\n- Experience with JavaScript, HTML, and CSS\n\n- Knowledge of frontend development best practices\n\n- Strong problem-solving skills\n\n- Excellent communication and collaboration abilities",
+        "job_is_remote": true,
+        "job_posted_at_timestamp": 1720099134,
+        "job_posted_at_datetime_utc": "2024-07-04T13:18:54.000Z",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "US",
+        "job_latitude": 37.09024,
+        "job_longitude": -95.71289,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=RgkOvtEn-5UbeQvDAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=RgkOvtEn-5UbeQvDAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": [
+            "React",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "HTML5"
+        ],
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "The ideal candidate has a strong understanding of frontend development principles and experience working with React.js",
+                "If you are a detail-oriented developer with a passion for creating exceptional user experiences, we would love to hear from you",
+                "Proficiency in React.js",
+                "Experience with JavaScript, HTML, and CSS",
+                "Knowledge of frontend development best practices",
+                "Strong problem-solving skills",
+                "Excellent communication and collaboration abilities"
+            ],
+            "Responsibilities": [
+                "As a Frontend Developer, you will be responsible for developing user interfaces and implementing designs using React.js",
+                "You will collaborate with our design and development teams to create seamless and user-friendly web applications"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "FOgaWo9MbesAa0GoAAAAAA==",
+        "employer_name": "Walmart",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMVUNivMZMzOue48X2VFmMzfK9p4wP7dopSc6&s=0",
+        "employer_website": "https://www.walmart.com",
+        "employer_company_type": null,
+        "employer_linkedin": "https://animationvisarts.com/walmart-logo-meaning-history/",
+        "job_publisher": "Careers.Walmart.com",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Software Engineer: React",
+        "job_apply_link": "https://careers.walmart.com/us/jobs/WD1775923-senior-software-engineer-react?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.7968,
+        "apply_options": [
+            {
+                "publisher": "Careers.Walmart.com",
+                "apply_link": "https://careers.walmart.com/us/jobs/WD1775923-senior-software-engineer-react?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "The Muse",
+                "apply_link": "https://www.themuse.com/jobs/walmart/senior-software-engineer-react?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            },
+            {
+                "publisher": "JOFDAV",
+                "apply_link": "https://www.jofdav.com/jobs/49915747-senior-software-engineer-react?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "DisABLEDperson.com",
+                "apply_link": "https://www.disabledperson.com/jobs/60076685-senior-software-engineer-react?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "WalMart",
+                "apply_link": "https://walmart.dejobs.org/bentonville-ar/senior-software-engineer-react/765752E31721414EA7E2C2671BC02FD6/job/?vs=1624&utm_source=Beyond.com+DirectEmployers-DE&utm_medium=Job+Aggregator&utm_campaign=Beyond.com+DirectEmployers&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "LinkedIn",
+                "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-react-at-walmart-3910743431?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "SimplyHired",
+                "apply_link": "https://www.simplyhired.com/job/_daxFT1-19iRPVN9GPAtz7ro1pSwDOKIH5OIWjcQCrO45VvEnIp-Gg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "National Labor Exchange Veterans Jobs",
+                "apply_link": "https://veterans.usnlx.com/bentonville-ar/senior-software-engineer-react/765752E31721414EA7E2C2671BC02FD6/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Position Summary...\n\nWhat you'll do...\n\nWhat you'll do:\n\nAssociate Experience is a group within the Intelligent Store Tech (IST) org within Walmart. IST builds products that enable the best checkout experience for our store Customers. Within IST as part of the Associate Experience group, you will be focused on building tools to enable our Associates to serve our customers at the checkout lanes.\n\nAbout Team:\n\nThe Associate Experience group focuses on building products that enable our Associates to serve our Customers during the Checkout process. We use open-source tech to build software that stands on top of a foundational Platform architecture which is being built from the ground up.\n\nWhat you’ll do:\n• Full stack development using multiple technologies like React JS, React Native, Java, Spring, Kubernetes, NoSQL, Kafka and other such tools/frameworks\n• Identifying short- and long-term goals, reviewing and providing feedback for proposed solutions, performing design and code reviews.\n• Develop efficient code to automate repetitive / manual tasks.\n• Design and develop in large-scale, complex, cross-functional projects.\n• Maintain an unwavering focus on Observability and ensures everything can be measured.\n• Directs root cause analysis of critical business and production issues.\n\nWhat you’ll bring:\n• 4+ years of experience in full stack development of highly scalable applications.\n• Experience working with micro-services architecture and distributed systems.\n• Passionate about reviewing code, expertise with Automation Tools and strong customer focus and obsession with quality.\n• Proficiency in back-end technologies and experience in developing APIs using Java, Spring Boot.\n• Proficiency in front-end technologies, such as HTML, CSS, JavaScript, and modern JavaScript frameworks like ReactJS or React Native.\n• Experience in Agile/Scrum methodologies.\n• Passion for staying current with industry trends and emerging technologies, with a commitment to continuous learning and professional growth.\n• Strong collaboration and communication skills, with the ability to work effectively with cross-functional teams and stakeholders.\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\n\nFlexible, hybrid work:\nWe use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\nBenefits:\nBenefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nWalmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\n \n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nThe annual salary range for this position is $90,000.00-$180,000.00\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years’ experience in software engineering or related area.Option 2: 5 years’ experience in software engineering or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1706227200,
+        "job_posted_at_datetime_utc": "2024-01-26T00:00:00.000Z",
+        "job_city": "Bentonville",
+        "job_state": "AR",
+        "job_country": "US",
+        "job_latitude": 36.372356,
+        "job_longitude": -94.21021,
+        "job_benefits": [
+            "health_insurance",
+            "paid_time_off",
+            "dental_coverage",
+            "retirement_savings"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs&htidocid=FOgaWo9MbesAa0GoAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=FOgaWo9MbesAa0GoAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "60",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "true",
+            "degree_preferred": "true",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "4+ years of experience in full stack development of highly scalable applications",
+                "Experience working with micro-services architecture and distributed systems",
+                "Passionate about reviewing code, expertise with Automation Tools and strong customer focus and obsession with quality",
+                "Proficiency in back-end technologies and experience in developing APIs using Java, Spring Boot",
+                "Proficiency in front-end technologies, such as HTML, CSS, JavaScript, and modern JavaScript frameworks like ReactJS or React Native",
+                "Experience in Agile/Scrum methodologies",
+                "Passion for staying current with industry trends and emerging technologies, with a commitment to continuous learning and professional growth",
+                "Strong collaboration and communication skills, with the ability to work effectively with cross-functional teams and stakeholders",
+                "Option 2: 5 years’ experience in software engineering or related area",
+                "Master’s degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area., We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+                "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+            ],
+            "Responsibilities": [
+                "Within IST as part of the Associate Experience group, you will be focused on building tools to enable our Associates to serve our customers at the checkout lanes",
+                "Full stack development using multiple technologies like React JS, React Native, Java, Spring, Kubernetes, NoSQL, Kafka and other such tools/frameworks",
+                "Identifying short- and long-term goals, reviewing and providing feedback for proposed solutions, performing design and code reviews",
+                "Develop efficient code to automate repetitive / manual tasks",
+                "Design and develop in large-scale, complex, cross-functional projects",
+                "Maintain an unwavering focus on Observability and ensures everything can be measured",
+                "Directs root cause analysis of critical business and production issues"
+            ],
+            "Benefits": [
+                "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+                "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+                "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+                "Health benefits include medical, vision and dental coverage",
+                "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+                "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+                "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+                "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+                "The amount you receive depends on your job classification and length of employment",
+                "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+                "Tuition, books, and fees are completely paid for by Walmart",
+                "Benefits are subject to change and may be subject to a specific plan or program terms",
+                "The annual salary range for this position is $90,000.00-$180,000.00",
+                "Additional compensation includes annual or quarterly performance bonuses"
+            ]
+        },
+        "job_job_title": "Software engineer",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113400",
+        "job_onet_job_zone": "3",
+        "job_occupational_categories": null,
+        "job_naics_code": "452990",
+        "job_naics_name": "All Other General Merchandise Stores"
+    }
+]
