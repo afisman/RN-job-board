@@ -25,10 +25,10 @@ const useFetch = (endpoint, query) => {
         setIsLoading(true);
 
         try {
-            const response = await axios.request(options);
+            // const response = await axios.request(options);
+            const response = await axios.request("./../data/data.json");
 
-            setData(response.data.data);
-            console.log(response.data.data)
+            setData(response.data);
             setIsLoading(false)
         } catch (error) {
             setError(error);
