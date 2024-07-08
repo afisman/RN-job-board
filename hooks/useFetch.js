@@ -27,8 +27,15 @@ const useFetch = (endpoint, query) => {
         try {
             // const response = await axios.request(options);
             const response = await axios.request("./../data/data.json");
+            if (endpoint === 'search') {
+                setData(response.data);
+            } else if (endpoint === 'job-details') {
+                const job = response.data.filter(el => {
+                    return el.job_id === query.job_id
+                });
+                setData(job[0]);
+            }
 
-            setData(response.data);
             setIsLoading(false)
         } catch (error) {
             setError(error);
