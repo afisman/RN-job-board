@@ -33,7 +33,7 @@ const useFetch = (endpoint, query) => {
                 const job = response.data.filter(el => {
                     return el.job_id === query.job_id
                 });
-                setData(job[0]);
+                setData(job);
             }
 
             setIsLoading(false)
