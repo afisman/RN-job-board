@@ -1,7 +1,9 @@
-import React from 'react'
-import { View, Text } from 'react-native'
+import React from 'react';
+import { View, Text, Pressable, FlatList } from 'react-native';
 
-import styles from './tabs.style'
+import styles from './tabs.style';
+import { SIZES } from '../../../constants';
+
 
 const Tabs = () => {
   return (

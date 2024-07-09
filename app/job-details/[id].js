@@ -8,10 +8,12 @@ import useFetch from '../../hooks/useFetch';
 const jobDetails = () => {
     const params = useLocalSearchParams();
     const router = useRouter();
-    console.log(params)
     const { data, isLoading, error, refetch } = useFetch('job-details', { job_id: params.id });
 
     const [refreshing, setRefreshing] = useState(false);
+    const tabs = ["About", "Qualifications", "Responsibilities"];
+
+    const [activeTab, setActiveTab] = useState(tabs[0]);
 
     const onRefresh = () => { }
 
@@ -51,10 +53,16 @@ const jobDetails = () => {
                         ) : (
                             <View style={{ padding: SIZES.medium, paddingBottom: 100 }}>
                                 <Company
-
+                                    companyLogo={data[0].employer_logo}
+                                    jobTitle={data[0].job_title}
+                                    companyName={data[0].employer_name}
+                                    location={data[0].job_country}
                                 />
 
                                 <JobTabs
+                                    tabs={tabs}
+                                    activeTab={activeTab}
+                                    setActiveTab={setActiveTab}
                                 />
                             </View>
                         )
