@@ -14,7 +14,10 @@ const Footer = ({ url }) => {
           style={styles.likeBtnImage}
         />
       </Pressable>
-      <Pressable style={styles.applyBtn}>
+      <Pressable
+        style={styles.applyBtn}
+        onPress={() => Linking.openURL(url)}
+      >
         <Text style={styles.applyBtnText}>Apply for job</Text>
       </Pressable>
     </View>

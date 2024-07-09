@@ -25,12 +25,12 @@ const useFetch = (endpoint, query) => {
         setIsLoading(true);
 
         try {
-            // const response = await axios.request(options);
-            const response = await axios.request("./../data/data.json");
+            const response = await axios.request(options);
+            // const response = await axios.request("./../data/data.json");
             if (endpoint === 'search') {
-                setData(response.data);
+                setData(response.data.data);
             } else if (endpoint === 'job-details') {
-                const job = response.data.filter(el => {
+                const job = response.data.data.filter(el => {
                     return el.job_id === query.job_id
                 });
                 setData(job);

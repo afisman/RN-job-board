@@ -36,12 +36,12 @@ const styles = StyleSheet.create({
   searchInput: {
     fontFamily: FONT.regular,
     width: "100%",
-    height: "100%",
+    height: 50,
     paddingHorizontal: SIZES.medium,
   },
   searchBtn: {
     width: 50,
-    height: "100%",
+    height: 50,
     backgroundColor: COLORS.tertiary,
     borderRadius: SIZES.medium,
     justifyContent: "center",
